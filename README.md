@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<div class="img-right">
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=eierina&layout=donut&theme=dark"
@@ -26,3 +27,4 @@ Here are some ideas to get you started:
   />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eierina&layout=donut&theme=dark" />
 </picture>
+</div>
